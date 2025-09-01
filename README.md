@@ -48,3 +48,4 @@ El análisis de estos datos revela insights críticos sobre el desarrollo global
 ### Archivos del Proyecto
 
 * **`[reporte-demografico-global.pbix](https://app.powerbi.com/groups/me/reports/aad2a871-a946-4f14-a3c8-0f77b989f7aa?ctid=312d334d-75c2-4f23-80af-db347d214188&pbi_source=linkShare)`**: El archivo de Power BI con el modelo de datos y el informe interactivo.
+* "Aviso: Los datos utilizados en este proyecto son ficticios y solo tienen fines de demostración. El enfoque principal del informe es mostrar mi proceso de análisis y visualización de datos."
